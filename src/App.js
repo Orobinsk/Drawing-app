@@ -11,6 +11,5 @@ function App() {
         <Canvas/>
     </div>
 }
-// test2
 
 export default App
