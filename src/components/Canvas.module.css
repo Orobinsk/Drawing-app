@@ -1,0 +1,11 @@
+.canvas{
+    border: solid 2px rgb(69, 231, 243);
+
+}
+.canvasBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column
+
+}

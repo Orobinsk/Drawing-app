@@ -1,0 +1,20 @@
+.tools {
+    background-color: rgb(69, 231, 243);
+    height: 40px;
+    width: 404px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.decrease, .size,.clear, .increase{
+    width: 20px;
+}
+.tools>* {
+    margin: 5px;
+}
+
+button,
+input {
+    cursor: pointer;
+}
